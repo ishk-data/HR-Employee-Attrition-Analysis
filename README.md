@@ -6,6 +6,15 @@ This project analyzes employee attrition patterns using **Excel and Power BI** t
 
 The analysis uses data from **1,470 employees** and examines attrition across factors such as department, age, tenure, job role, overtime, business travel, job level, income, and distance from home.
 
+## Dataset
+
+This project uses a publicly available HR employee dataset containing employee demographic, job, compensation, satisfaction, and attrition information.
+
+The dataset contains **1,470 employee records** and was used for educational and portfolio analysis purposes.
+
+No personally identifiable employee information is included in the analysis.
+
+
 ---
 
 ## Business Problem
