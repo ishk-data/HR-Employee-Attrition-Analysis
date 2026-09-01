@@ -139,6 +139,8 @@ HR teams can regularly monitor attrition KPIs through dashboards and investigate
 
 ## Power BI Dashboard
 
+![HR Employee Attrition Dashboard](dashboard/HR_Attrition_Dashboard.png)
+
 The Power BI dashboard provides an interactive view of employee attrition using KPI cards, charts, and slicers.
 
 ### Dashboard Includes
